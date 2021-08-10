@@ -60844,7 +60844,7 @@ p=M.dR(C.O,L.dl("Welcome To My Portfolio ",B.ds(C.j,30*Math.min(n.gaG()/n.gP().a
 o=$.ao
 r=o==null?H.d(H.i(d)):o
 r=Math.min(r.gaG()/r.gP().a,r.gaK()/r.gP().b)
-r=K.Pz(e,new T.Aw(U.Ts("images/profile_photo.jpg"),e),200*r)
+r=K.Pz(e,new T.Aw(U.Ts("build/web/assets/images/profile_photo.jpg"),e),200*r)
 q=$.ao
 if(q==null)q=H.d(H.i(d))
 q=T.cC(e,30*(q.gaK()/q.gP().b),e)

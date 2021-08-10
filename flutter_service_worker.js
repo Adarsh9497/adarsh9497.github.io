@@ -4,7 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/animations/about-icon.json": "aae7a22c78f99aa79f9ac47f3db2fec7",
-"assets/AssetManifest.json": "c36bbcabbf434ecaf2201ddd5a31f872",
+"assets/AssetManifest.json": "70e3f493ff92a718c1523a06ae52346a",
+"assets/build/web/assets/images/codechef.png": "d8086b399ea563216867ce70e422ecd4",
+"assets/build/web/assets/images/dsc.png": "8ebf11b1fb9b7e1c58476d62516d66a0",
+"assets/build/web/assets/images/leetcode.png": "35a856b473ceec15a97c801937406aa3",
+"assets/build/web/assets/images/profile_backgroud.jpg": "0677581f1b5be4bbeb80543e6ba48aab",
+"assets/build/web/assets/images/profile_photo.jpg": "d3daf10faee89c7166d0a0974a2fb799",
+"assets/build/web/assets/images/skills_background.png": "a24379cf0c02f4ccd44996727e275fc4",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/codechef.png": "d8086b399ea563216867ce70e422ecd4",
@@ -21,9 +27,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a103cf259be20cdba1b66a9bc040381f",
-"/": "a103cf259be20cdba1b66a9bc040381f",
-"main.dart.js": "494e59ccf3606f57cacdb158c64757ba",
+"index.html": "0cf003626119d03ece69349b58871b85",
+"/": "0cf003626119d03ece69349b58871b85",
+"main.dart.js": "c9bcab0ab4cda8b0b6e5d0ff0d370ae9",
 "manifest.json": "ffa6ddd0f98d0d5d5c8f0d704c6fe8da",
 "version.json": "92a047e12e6cc776051d519221dfb5a1"
 };
